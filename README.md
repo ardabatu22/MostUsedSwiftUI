@@ -6,6 +6,7 @@ A collection of commonly used SwiftUI components. This project serves as a pract
 - Organized into categories:
   - **UI Components**
   - **Animations**
+  - **Buttons**
   - **Lists**
   - **Navigation**
 
